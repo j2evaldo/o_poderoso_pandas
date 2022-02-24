@@ -8,4 +8,6 @@
 # O Poderoso Pandas
 O incrível poder de manipular e tratar dados de forma eficiente.
 
+Código Fonte: https://bit.ly/3sW91O8
+
 [![CODIGO DO PROGRAMA](https://img.shields.io/badge/Código-Fonte-orange.svg)](https://bit.ly/3sW91O8)
